@@ -1,8 +1,10 @@
 * {
     box-sizing: border-box;
-  }
+}
 
 body {
+    display: flex;
+    flex-direction: column;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
 }
@@ -84,7 +86,7 @@ main {
     width: 47%;
     bottom: 30px;
     right: 12px;
-    box-shadow: 0 2.1rem 2rem rgba(0, 0, 0, 0.4); */
+    box-shadow: 0 2.1rem 2rem rgba(0, 0, 0, 0.4);
 }
 
 .item:nth-of-type(4n + 2) {
