@@ -14,5 +14,4 @@ When creating an open source project on GitHub, there is always the option for o
 Please reach out with any questions you may have about this application.
 
 * :octocat: GitHub:[@lindsey-lansford](https://github.com/lindsey-lansford)
-
 * :envelope: Email: [lindsey.lansford@gmail.com](mailto:lindsey.lansford@gmail.com)
