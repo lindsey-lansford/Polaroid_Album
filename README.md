@@ -8,6 +8,13 @@ This project is a static web application that mostly focuses on custom CSS. I lo
 
 When creating an open source project on GitHub, there is always the option for other developers to contribute to your projects. | If you would like to contribute, please contact me at the email listed below.
 
+## Mockup
+
+![Screenshot of the deployed application](mockup.png)
+
+## Deployed URL
+
+View the application [here.](https://lindsey-lansford.github.io/Polaroid_Album/)
 
 ## Questions
 
