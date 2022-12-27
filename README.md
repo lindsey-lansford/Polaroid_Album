@@ -1,4 +1,4 @@
-# Polaroid Album 
+# Polaroid 📸 Album 
 
 ## Description
 
