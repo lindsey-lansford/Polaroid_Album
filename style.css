@@ -1,12 +1,8 @@
 * {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
-}
-
-body {
-    display: flex;
-    flex-direction: column;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
 }
 
 header {
@@ -14,15 +10,9 @@ header {
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    padding: .5% 1.8%;
+    padding: 20px;
     background-color: #13293d;
     color: #fff;
-}
-
-#title {
-    text-align: center;
-    display: flex;
-    justify-content: center;
 }
 
 /* .nav-list {
